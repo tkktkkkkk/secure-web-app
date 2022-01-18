@@ -24,6 +24,7 @@
 > ![6](https://user-images.githubusercontent.com/91732628/149669939-44b38223-4efb-4e91-b193-fb54dd13c5d3.png)
 
 4. Запустите доработанный сервер node .\server_org.js и, пройдя по ссылке, http://127.0.0.1:8080/login.html убедитесь, что всё работает корректно: имена и пользователи хранятся во внешнем файле.
-![success](https://user-images.githubusercontent.com/91732628/149905670-6eedd4d1-9def-4790-a60d-a36e8ea8bf89.jpg)
+![sux](https://user-images.githubusercontent.com/91732628/149907099-f7b8ed9b-a3a6-4fac-9a45-9ff9557b2073.jpg)
+
 
 ![users](https://user-images.githubusercontent.com/91732628/149669960-0c607c83-e96d-43c5-bc2b-650249bd9df2.png)
